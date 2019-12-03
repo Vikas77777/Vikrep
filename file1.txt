@@ -1,5 +1,3 @@
 first file after git install
 
 this is my first modify.
-
-This is my second commit
