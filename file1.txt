@@ -1,3 +1,6 @@
+
+I am change after branch2.
+
 first file after git install
 
 this is my first modify.
