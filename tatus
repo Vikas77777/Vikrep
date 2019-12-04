@@ -1,0 +1,80 @@
+[33mcommit 59c189edb7bdb50bc5f10b0e4ea1b3017dff8231[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 343bd16 bf509a4
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Wed Dec 4 18:59:27 2019 +0530
+
+    commit after merge conflict
+
+[33mcommit 343bd1648ebde90fdf8726af19e2ade02efe9790[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Wed Dec 4 18:55:05 2019 +0530
+
+    commit #5 after branch1 commit in same file
+
+[33mcommit bf509a42850e5810c1715388751aac23f4237d32[m[33m ([m[1;32mbranch1[m[33m)[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Wed Dec 4 18:53:57 2019 +0530
+
+    commit in branch1 file1.txt
+
+[33mcommit 3c4394989f3f738da835775789a646af6e6c4068[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Wed Dec 4 18:52:45 2019 +0530
+
+    branch1 commit #2
+
+[33mcommit 9061aba8d680668f4c7d18c28fc92c3c8c3a9732[m
+Merge: 91777f3 49a5c67
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Wed Dec 4 18:48:56 2019 +0530
+
+    becasue i want to merger Branch2
+    Merge branch 'branch2'
+
+[33mcommit 91777f33470d74a01d720fd472916909be4af73e[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Wed Dec 4 18:47:15 2019 +0530
+
+    master branch commit #4
+
+[33mcommit 49a5c6770e9f531b3058a30745dd744c1eaee53b[m[33m ([m[1;32mbranch2[m[33m)[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Wed Dec 4 18:44:40 2019 +0530
+
+    brabch2 - commit #2
+
+[33mcommit e7066d4a40c6709396b31f9dce37e948e21f9380[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Wed Dec 4 18:37:00 2019 +0530
+
+    branch1 commit #1
+
+[33mcommit 4f9a5c44d5a4901f77a8e1ab4d377f41a6b38c3d[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Tue Dec 3 18:21:44 2019 +0530
+
+    master branch --commit #3
+
+[33mcommit 85fdbcf647c31a228ad8492e94b94ac9b0f46766[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Tue Dec 3 18:17:04 2019 +0530
+
+    .
+
+[33mcommit 39a7c5987f4962ace0f77b242ac3c9a70e764eed[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Tue Dec 3 18:10:01 2019 +0530
+
+    master branch --commit#2
+
+[33mcommit 51aea4f2cb8101d80ba7f2ba83dedfef60170b22[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Tue Dec 3 14:55:37 2019 +0530
+
+    commited modified #1
+
+[33mcommit c507792ea344b740cbdfa49582960a465d348a2f[m
+Author: Vikas <vikas.dhiman@centricconsulting.com>
+Date:   Tue Dec 3 14:47:43 2019 +0530
+
+    This is my first commit on the master Branch.
